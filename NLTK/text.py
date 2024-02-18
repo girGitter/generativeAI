@@ -1,3 +1,4 @@
+#hello
 import random
 import nltk
 from patterns import pattern
